@@ -1,5 +1,6 @@
-# ![game (1)](https://user-images.githubusercontent.com/60555164/170000469-44328fd5-78e3-4cc8-8abc-54914c5bf3e0.png) Simon Game ## - A fun-way to flex your memorizing skills
+# ![game (1)](https://user-images.githubusercontent.com/60555164/170000469-44328fd5-78e3-4cc8-8abc-54914c5bf3e0.png) Simon Game 
 
+## - A fun-way to flex your memorizing skills
 
 <img src="https://user-images.githubusercontent.com/60555164/169997101-ff9ce6cc-b3eb-4b9d-b19e-d77ebbd845d5.PNG">
 
